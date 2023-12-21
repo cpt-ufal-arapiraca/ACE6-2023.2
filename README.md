@@ -14,7 +14,7 @@ Utilize Scrum para o desenvolvimento do projeto com sprints semanais.
 5. Arquitetura Orientada a Serviços
 # Para começar a executar o projeto
 1. Definir um modelo para descrição de requisitos que todos os projetos deverão utilizar 
-2. Definir um artefato de modelagem (diag classes UML, diag ER/ERE) que deve ser criado em todo projeto
+2. Definir um artefato de modelagem (diag classes UML, diag ER/ERE) que deve ser criado em todo projeto. 
 3. Definir uma ferramenta para testes de aceitação, preferencialmente, ou teste unitários
 # Tecnologias adicionais
 1. Tanto a camada da aplicação, quanto do banco de dados, devem ser especificadas em um docker-compose.
